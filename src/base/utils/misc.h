@@ -30,6 +30,7 @@
 #define UTILS_MISC_H
 
 #include <QtGlobal>
+#include <QString>
 
 #ifdef Q_OS_WIN
 #include <memory>
